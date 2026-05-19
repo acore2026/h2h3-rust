@@ -1,0 +1,7 @@
+target/
+**/target/
+__pycache__/
+*.py[cod]
+.agents/
+.codex/
+.git/
